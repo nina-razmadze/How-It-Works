@@ -1,5 +1,3 @@
-import GrayContainer from "../components/Containers/GrayContainer/GrayContainer";
-import title from "../assets/images/How Investing in Ammo Works.png";
 import computerimg from "../assets/images/Macbook Pro 2022 - Group.png";
 
 export default function ForthPage() {
@@ -85,7 +83,7 @@ export default function ForthPage() {
               <img alt="" />
             </div>
           </section>
-          <div className="absolute 2xl:right-12 2xl:top-[290px] hidden 2xl:block  ">
+          <div className="absolute 2xl:right-12 2xl:top-[328%] hidden 2xl:block  ">
             <img src={computerimg}></img>
           </div>
           <div className="absolute right-5 left-5 top-[270px] block 2xl:hidden ">

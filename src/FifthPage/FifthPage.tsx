@@ -1,5 +1,4 @@
 import GrayContainer from "../components/Containers/GrayContainer/GrayContainer";
-import title from "../assets/images/Why Ammo is a Good Investment.png";
 import donebackground from "../assets/images/donebackground.png";
 import done from "../assets/images/done.png";
 import octagon from "../assets/images/Octagon_Check@2x.png";

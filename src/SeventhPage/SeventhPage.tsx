@@ -1,7 +1,5 @@
 import Footer from "../Layout/Footer/Footer";
-import Layout from "../Layout/Layout";
 import footerimg from "../assets/images/Group 43733.png";
-import title from "../assets/images/Countdown to start of trading.png";
 
 export default function SeventhPage() {
   return (

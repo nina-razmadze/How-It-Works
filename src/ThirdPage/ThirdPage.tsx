@@ -1,5 +1,3 @@
-import title from "../assets/images/Become a Founding Trader.png";
-
 import imageBackLight from "../assets/images/Ellipse 36.png";
 import imageBackDark from "../assets/images/Ellipse 35.png";
 
@@ -9,7 +7,6 @@ import users from "../assets/images/users-alt 1.png";
 import ticket from "../assets/images/ticket 1.png";
 
 import vector from "../assets/images/Vector.png";
-import Button from "../components/Button/Button";
 
 import group from "../assets/images/Group.png";
 import Card from "../components/Card/Card";

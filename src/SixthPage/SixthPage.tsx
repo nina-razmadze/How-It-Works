@@ -9,8 +9,6 @@ import seconds from "../assets/images/36.png";
 import july from "../assets/images/JUNE 17th.png";
 import july1 from "../assets/images/JULY 1st.png";
 
-import title from "../assets/images/Countdown to start of trading.png";
-
 export default function SixthPage() {
   return (
     <div className="flex justify-center flex-col items-center text-black h-screen w-screen bg-white">
